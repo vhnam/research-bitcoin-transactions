@@ -1,0 +1,14 @@
+{
+  "name": "generate-testnet-address",
+  "version": "1.0.0",
+  "description": "A part of research bitcoinjs-lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nam Vo <vhnam2504@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.2"
+  }
+}
