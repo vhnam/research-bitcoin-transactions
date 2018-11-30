@@ -34,6 +34,7 @@ build/Release
 
 # Dependency directories
 generate-testnet-address/node_modules/
+send-transactions/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
